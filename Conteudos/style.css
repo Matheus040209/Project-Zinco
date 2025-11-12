@@ -7,7 +7,7 @@ body {
 }
 
 h1, h2, h3 {
-  color: #cb68f1;
+  color: #1b0025;
   text-transform: uppercase;
   letter-spacing: 1px;
 }
@@ -94,7 +94,7 @@ form input:focus, form select:focus, form textarea:focus {
 footer {
   background-color: #e9ddf6;
   border-top: 2px solid #d8b8f0;
-  color: #7b27bb;
+  color: #a544f0;
   text-align: center;
   padding: 10px;
   font-weight: bold;
@@ -194,7 +194,7 @@ footer {
   footer {
     background-color: #0a0014;
     border-top: 2px solid #d8b8f0;
-    color: #7b27bb;
+    color: #be68ff;
     text-align: center;
     padding: 10px;
     font-weight: bold;
