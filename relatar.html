@@ -78,7 +78,24 @@
 										<label for="event-photo" class="form-label">Foto (Opcicional):</label>
 										<input type="file" accept="image/png, image/jpeg" class="form-control" id="event-photo">
 									</div>
-									<button type="submit" class="btn btn-primary mt-2">Enviar</button>
+									<button type="button" data-bs-toggle="modal" data-bs-target="#enviado" class="btn btn-primary mt-2">Enviar</button>
+
+									<div class="modal" data-bs-backdrop="static" id="enviado" tabindex="-1" aria-labelledby="enviado" aria-hidden="true">
+										<div class="modal-dialog modal-dialog-centered">
+											<div class="modal-content border-success">
+												<div class="modal-header">
+													<h1 class="modal-title fs-5" id="enviado">Relatório Enviado!</h1>
+													<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+												</div>
+												<div class="modal-body bg-success">
+													Obrigado por contribuir para a segurança de todos. Seu relatório foi recebido com sucesso e será analisado pela equipe de campo.
+												</div>
+												<div class="modal-footer">
+													<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Ok</button>
+												</div>
+											</div>
+										</div>
+									</div>
 								</div>
 							</div>
 						</form>
