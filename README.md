@@ -14,3 +14,9 @@ Ano 2045. Um evento chamado “*A falha”* dizimou grande parte das cidades. Cr
 ---
 
 ![](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white) ![](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+## Implantação no Netlify
+
+Clique no botão abaixo para implantar esse template na sua conta Netlify.
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/samuelmarc/Project-Zinco)
